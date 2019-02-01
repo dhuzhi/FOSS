@@ -1,1 +1,1 @@
-This is a stiudent project based on java and python
+This is a student project based on java and python
